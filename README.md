@@ -1,0 +1,2 @@
+# Salone-website
+Windows only
